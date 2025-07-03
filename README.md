@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate Software Developer studying <code>Mechatronics Engineering</code> at the <code>University of Waterloo</code>. Interested in <code>Robotics</code> & <code>AI/ML</code>!</p>
+<p align="left">I am a passionate Software Developer studying Mechatronics Engineering at the University of Waterloo. I'm interested in Robotics and AI/ML!</p>
 
 ###
 
